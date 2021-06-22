@@ -1,4 +1,7 @@
 # Youtube-Video-Analysis
+
+There are different types of videos being uploaded everyday at different instants of time in Youtube. It would be really useful if the content of these videos is being analysed and see the history of them and look at different instnces of time where they have been trending. In addition, it would help the users to understand the righ time at which the videos could be uploaded and this ensures that a lot of time and effort is being saved during the uploading of different cagteogires of videos. Moreover, this insights would help the company to allocate the time and resources during different parts of the year so that they get to know the videos that are being uploaded. 
+
 In this problem, we would be analyzing the various trends in youtube which includes views, likes and dislikes. Understanding different trends that are found in youtube could ensure that best results are being generated. 
 We would be using different data visualization techniques to ensure that we get the best results and insights from the data that is present at hand respectively.
 
