@@ -1,4 +1,4 @@
-# Youtube-Video-Analysis
+# Youtube Video Analysis
 
 There are different types of videos being uploaded everyday at different instants of time in Youtube. It would be really useful if the content of these videos is being analysed. It would be good to understand the different category of videos presently being uploaded in youtube and look at different instances of time where they have been trending. In addition, it would help the users to understand the right time at which the videos could be uploaded and this ensures that a lot of time and effort is being saved during the uploading of different categories of videos. Moreover, these insights would help the company allocate the time and resources during different parts of the year so that they get to know the videos that are being uploaded. 
 
