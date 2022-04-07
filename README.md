@@ -15,6 +15,11 @@ In addition to this, new features would be created so that one could get a good 
 
 We would be working with California YouTube data and perform data visualization to observe different trends present in the videos. We would be analyzing the videos and getting a good understanding of the data that is present at hand. 
 
+## Exploratory Data Analysis (EDA)
+
+* Most of the cateogry of videos that were taken are from "Entertainment" compared to other categories such as "Music" or "Travel & Events".
+* A large portion of videos had comments enabled compared to a very few videos where they were disabled. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
