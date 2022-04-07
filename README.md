@@ -23,7 +23,8 @@ We would be working with California YouTube data and perform data visualization 
 * The least viewed category of videos were __"Travel & Events"__ compared to the other categories based on the analysis.  
 * A large number of comments were also given to __"Music"__ category videos compared to the others. The second best number of comments were given to __"Gaming"__ category videos. 
 * A large amount of data was included for the year __"2018"__ compared to the hear __"2017"__ respectively. Therefore, we should be able to get a good estimate of the trends in __YouTube videos__ more accurately compared to the other categories. 
-* There was a good correlation between the __number of comments__ given to videos and the __total number of views__. This is true in __real-life__ as well because we know that the higher the number of views, the more would the comments be for the most part. This was being __reflected__ in the data as well. 
+* There was a __good correlation__ between the __number of comments__ given to videos and the __total number of views__. This is true in __real-life__ as well because we know that the higher the number of views, the more would the comments be for the most part. This was being __reflected__ in the data as well. 
+* It could also be seen from the __Heatmap__ that there is a __strong correlation__ between the __number of likes__ for a video and __comment counts__ as well. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
