@@ -22,7 +22,7 @@ We would be working with California YouTube data and perform data visualization 
 * The videos that were of __"Music"__ category were the most viewed compared to other categories such as __"Movies"__ being the second best. 
 * The least viewed category of videos were __"Travel & Events"__ compared to the other categories based on the analysis.  
 * A large number of comments were also given to __"Music"__ category videos compared to the others. The second best number of comments were given to __"Gaming"__ category videos. 
-* A large amount of data was included for the year "2018" compared to the hear "2017" respectively. Therefore, we should be able to get a good estimate of the trends in YouTube videos more accurately compared to the other categories. 
+* A large amount of data was included for the year __"2018"__ compared to the hear __"2017"__ respectively. Therefore, we should be able to get a good estimate of the trends in __YouTube videos__ more accurately compared to the other categories. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
