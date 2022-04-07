@@ -21,7 +21,7 @@ We would be working with California YouTube data and perform data visualization 
 * A large portion of videos had __comments enabled__ compared to a very few videos where they were __disabled__.
 * The videos that were of __"Music"__ category were the most viewed compared to other categories such as __"Movies"__ being the second best. 
 * The least viewed category of videos were __"Travel & Events"__ compared to the other categories based on the analysis.  
-* A large number of comments were also given to "Music" category videos compared to the others. The second best number of comments were given to "Gaming" category videos. 
+* A large number of comments were also given to __"Music"__ category videos compared to the others. The second best number of comments were given to __"Gaming"__ category videos. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
