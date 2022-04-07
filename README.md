@@ -23,6 +23,7 @@ We would be working with California YouTube data and perform data visualization 
 * The least viewed category of videos were __"Travel & Events"__ compared to the other categories based on the analysis.  
 * A large number of comments were also given to __"Music"__ category videos compared to the others. The second best number of comments were given to __"Gaming"__ category videos. 
 * A large amount of data was included for the year __"2018"__ compared to the hear __"2017"__ respectively. Therefore, we should be able to get a good estimate of the trends in __YouTube videos__ more accurately compared to the other categories. 
+* There was a good correlation between the number of comments given to videos and the total number of views. This is true in real-life as well because we know that the higher the number of views, the more would the comments be for the most part. This was being reflected in the data as well. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
