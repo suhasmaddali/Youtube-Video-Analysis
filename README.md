@@ -18,7 +18,9 @@ We would be working with California YouTube data and perform data visualization 
 ## Exploratory Data Analysis (EDA)
 
 * Most of the cateogry of videos that were taken are from "Entertainment" compared to other categories such as "Music" or "Travel & Events".
-* A large portion of videos had comments enabled compared to a very few videos where they were disabled. 
+* A large portion of videos had comments enabled compared to a very few videos where they were disabled.
+* The videos that were of "Music" category were the most viewed compared to other categories such as "Movies" being the second best 
+* The least viewed category of videos were "Travel & Events" compared to the other categories based on the analysis.  
 
 ## 👉 Directions to download the repository and run the notebook 
 
