@@ -17,7 +17,7 @@ We would be working with California YouTube data and perform data visualization 
 
 ## Exploratory Data Analysis (EDA)
 
-* Most of the cateogry of videos that were taken are from __"Entertainment"__ compared to other categories such as __"Music"__ or __"Travel & Events"__.
+* Most of the cateogry of videos that were taken are from __Entertainment__ compared to other categories such as __Music__ or __Travel & Events__.
 * A large portion of videos had __comments enabled__ compared to a very few videos where they were __disabled__.
 * The videos that were of __"Music"__ category were the most viewed compared to other categories such as __"Movies"__ being the second best. 
 * The least viewed category of videos were __"Travel & Events"__ compared to the other categories based on the analysis.  
